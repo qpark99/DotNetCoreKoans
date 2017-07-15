@@ -18,6 +18,8 @@ namespace DotNetCoreKoans.Koans
                 typeof(AboutMethods),
                 typeof(AboutControlStatements),
                 typeof(AboutGenericContainers),
+	            typeof(AboutLambdas),
+	            typeof(AboutDelegates),
 		typeof(AboutBitwiseAndShiftOperator)
                 //TODO: disabled due to missing functionality in netcoreapp1.0
                 // it will be available in 1.1 see:
